@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Planing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_task_name">insert your plan please \n</string>
+    <string name="save_task">"create your plan "</string>
+</resources>
